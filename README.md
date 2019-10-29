@@ -1,6 +1,6 @@
-# TypeScript Workshop
+# TypeScript Workshop
 
-#### A practical guide to getting up and running with TypeScript in 1 hour.
+#### A practical guide to getting up and running with TypeScript in 1 hour.
 
 ## Overview/Timetable
 
