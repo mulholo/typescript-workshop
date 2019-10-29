@@ -1,0 +1,9 @@
+{
+  "name": "typescript-workshop",
+  "version": "1.0.0",
+  "description": "Get your team up and running with TypeScript",
+  "main": "index.js",
+  "author": "James Mulholland",
+  "license": "MIT",
+  "private": false
+}
