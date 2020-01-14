@@ -10,3 +10,5 @@
 - Exercises
 
 ## Setup
+
+See README

@@ -8,14 +8,22 @@
   "private": false,
   "scripts": {
     "lint": "eslint **/*.ts",
-    "prettify": "prettier **/*.{ts,md,js}"
+    "prettify": "prettier **/*.{ts,md,js}",
+    "ex1": "tsc exercises/01-refactor-basic-types.ts --noEmit",
+    "ex2": "tsc exercises/02-unionts.ts --noEmit"
   },
   "devDependencies": {
+    "@types/react": "^16.9.17",
     "@typescript-eslint/eslint-plugin": "^2.6.0",
     "@typescript-eslint/parser": "^2.6.0",
     "eslint": "^6.6.0",
     "eslint-plugin-react": "^7.16.0",
     "prettier": "^1.18.2",
     "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "corporate-ipsum": "^1.0.1",
+    "react": "^16.12.0",
+    "vanilla-javascript": "^1.1.1"
   }
 }

@@ -4,8 +4,8 @@ interface FormState {
 
 interface FormAction {
   // TODO
-  // 1. Make string into a union so that only the
-  //    strings in the switch statement are accepted
+  // 1. Make string into a union so that only the strings
+  //    in the switch statement below are accepted
   type: string;
   // TODO
   // 2. Make the payloads into a union so that
