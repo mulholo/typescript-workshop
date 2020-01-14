@@ -18,4 +18,3 @@
   - [ ] `any` and `unkown`
   - [ ] Generics
   - [ ] Exercises
-  - [ ] Where to next?
